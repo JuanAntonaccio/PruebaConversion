@@ -21,8 +21,8 @@ dentro de la sesión actual
 
 IDE Utilizado WebStorm
 
-Antes de utilizar se debe ejecutar :  npm install axios
+Antes de ejecutar se debe ejecutar :  npm install axios
 Use la api sugerida en la letra, y se codifico en JavaScript
 
 
-Antes de ejecutar el programa debemos hacer 
+
